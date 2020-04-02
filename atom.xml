@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-04-02T10:00:46.523Z</updated>
+  <updated>2020-04-02T14:56:52.947Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>克隆人（三）</title>
+    <link href="/2020/04/02/%E5%85%8B%E9%9A%86%E4%BA%BA%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+    <id>/2020/04/02/克隆人（三）/</id>
+    <published>2020-04-02T14:41:31.000Z</published>
+    <updated>2020-04-02T14:56:52.947Z</updated>
+    
+    <summary type="html">
+    
+      真·中二·小说
+    
+    </summary>
+    
+      <category term="创作" scheme="/categories/%E5%88%9B%E4%BD%9C/"/>
+    
+    
+      <category term="小说" scheme="/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="科幻" scheme="/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+      <category term="中篇" scheme="/tags/%E4%B8%AD%E7%AF%87/"/>
+    
+  </entry>
   
   <entry>
     <title>克隆人（二）</title>
@@ -246,9 +270,9 @@
       <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
       <category term="web" scheme="/tags/web/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
