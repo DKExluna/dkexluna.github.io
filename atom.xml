@@ -41,7 +41,7 @@
     <link href="/2020/05/12/%E9%A6%99%E9%9B%AA%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
     <id>/2020/05/12/香雪（二）/</id>
     <published>2020-05-12T15:00:48.000Z</published>
-    <updated>2020-05-12T15:04:58.189Z</updated>
+    <updated>2020-05-19T12:22:09.576Z</updated>
     
     <summary type="html">
     
@@ -53,15 +53,17 @@
     
     
       <category term="小说" scheme="/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="中篇" scheme="/tags/%E4%B8%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
-    <title>香雪</title>
+    <title>香雪（一)</title>
     <link href="/2020/05/08/%E9%A6%99%E9%9B%AA/"/>
     <id>/2020/05/08/香雪/</id>
     <published>2020-05-08T14:49:14.000Z</published>
-    <updated>2020-05-12T15:01:36.687Z</updated>
+    <updated>2020-05-19T12:21:54.126Z</updated>
     
     <summary type="html">
     
@@ -73,6 +75,8 @@
     
     
       <category term="小说" scheme="/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="中篇" scheme="/tags/%E4%B8%AD%E7%AF%87/"/>
     
   </entry>
   
@@ -370,9 +374,9 @@
       <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
       <category term="web" scheme="/tags/web/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
