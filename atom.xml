@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-07-19T13:09:52.930Z</updated>
+  <updated>2020-07-21T10:04:23.718Z</updated>
   <id>/</id>
   
   <author>
@@ -17,19 +17,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>大蔵遊星の手紙</title>
+    <link href="/2020/07/21/%E5%A4%A7%E8%94%B5%E9%81%8A%E6%98%9F%E3%81%AE%E6%89%8B%E7%B4%99/"/>
+    <id>/2020/07/21/大蔵遊星の手紙/</id>
+    <published>2020-07-21T09:54:16.000Z</published>
+    <updated>2020-07-21T10:04:23.718Z</updated>
+    
+    <summary type="html">
+    
+      拝啓、私のご主人様。
+    
+    </summary>
+    
+    
+      <category term="视觉小说" scheme="/tags/%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大藏游星的信</title>
+    <link href="/2020/07/21/%E5%A4%A7%E8%97%8F%E6%B8%B8%E6%98%9F%E7%9A%84%E4%BF%A1/"/>
+    <id>/2020/07/21/大藏游星的信/</id>
+    <published>2020-07-21T09:53:41.000Z</published>
+    <updated>2020-07-21T10:13:47.340Z</updated>
+    
+    <summary type="html">
+    
+      拜启，我的主人。
+    
+    </summary>
+    
+    
+      <category term="视觉小说" scheme="/tags/%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
     <title>本站食用指南</title>
     <link href="/2020/07/19/%E6%9C%AC%E7%AB%99%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97/"/>
     <id>/2020/07/19/本站食用指南/</id>
     <published>2020-07-19T15:08:26.000Z</published>
-    <updated>2020-07-19T13:09:52.930Z</updated>
+    <updated>2020-07-21T09:55:23.549Z</updated>
     
     <summary type="html">
     
       简单的说明♪
     
     </summary>
-    
-      <category term="创作" scheme="/categories/%E5%88%9B%E4%BD%9C/"/>
     
     
       <category term="其他" scheme="/tags/%E5%85%B6%E4%BB%96/"/>
@@ -41,15 +75,13 @@
     <link href="/2020/07/19/%E6%9C%9D%E8%8A%B1%E5%A4%95%E8%AA%93/"/>
     <id>/2020/07/19/朝花夕誓/</id>
     <published>2020-07-19T12:20:46.000Z</published>
-    <updated>2020-07-19T12:57:47.180Z</updated>
+    <updated>2020-07-21T09:55:41.451Z</updated>
     
     <summary type="html">
     
       于离别之朝束起约定之花
     
     </summary>
-    
-      <category term="创作" scheme="/categories/%E5%88%9B%E4%BD%9C/"/>
     
     
       <category term="动画" scheme="/tags/%E5%8A%A8%E7%94%BB/"/>
@@ -391,46 +423,6 @@
     
     
       <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>且听风吟</title>
-    <link href="/2020/04/01/%E4%B8%94%E5%90%AC%E9%A3%8E%E5%90%9F/"/>
-    <id>/2020/04/01/且听风吟/</id>
-    <published>2020-04-01T12:00:00.000Z</published>
-    <updated>2020-04-01T11:53:09.201Z</updated>
-    
-    <summary type="html">
-    
-      風の歌を聴け
-    
-    </summary>
-    
-      <category term="书单" scheme="/categories/%E4%B9%A6%E5%8D%95/"/>
-    
-    
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>声声慢</title>
-    <link href="/2020/04/01/%E5%A3%B0%E5%A3%B0%E6%85%A2/"/>
-    <id>/2020/04/01/声声慢/</id>
-    <published>2020-03-31T16:00:00.000Z</published>
-    <updated>2020-04-01T09:39:41.576Z</updated>
-    
-    <summary type="html">
-    
-      以前写的
-    
-    </summary>
-    
-      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="记事" scheme="/tags/%E8%AE%B0%E4%BA%8B/"/>
     
   </entry>
   
