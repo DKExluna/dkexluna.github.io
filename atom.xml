@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-07-21T10:04:23.718Z</updated>
+  <updated>2020-07-27T00:19:59.804Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>……</title>
+    <link href="/2020/07/27/%E2%80%A6%E2%80%A6/"/>
+    <id>/2020/07/27/……/</id>
+    <published>2020-07-27T00:18:59.000Z</published>
+    <updated>2020-07-27T00:19:59.804Z</updated>
+    
+    <summary type="html">
+    
+      ……
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="随感" scheme="/tags/%E9%9A%8F%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>百年孤独</title>
+    <link href="/2020/07/23/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/"/>
+    <id>/2020/07/23/百年孤独/</id>
+    <published>2020-07-23T03:35:36.000Z</published>
+    <updated>2020-07-23T03:41:40.594Z</updated>
+    
+    <summary type="html">
+    
+      甚或「孤独」本身亦不相通
+    
+    </summary>
+    
+      <category term="书单" scheme="/categories/%E4%B9%A6%E5%8D%95/"/>
+    
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>大蔵遊星の手紙</title>
@@ -383,46 +423,6 @@
       <category term="科幻" scheme="/tags/%E7%A7%91%E5%B9%BB/"/>
     
       <category term="中篇" scheme="/tags/%E4%B8%AD%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>镜中的世界（〇）</title>
-    <link href="/2020/04/02/%E9%95%9C%E4%B8%AD%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%88%E3%80%87%EF%BC%89/"/>
-    <id>/2020/04/02/镜中的世界（〇）/</id>
-    <published>2020-04-01T16:00:00.000Z</published>
-    <updated>2020-04-02T02:50:29.397Z</updated>
-    
-    <summary type="html">
-    
-      从没填过的坑
-    
-    </summary>
-    
-      <category term="创作" scheme="/categories/%E5%88%9B%E4%BD%9C/"/>
-    
-    
-      <category term="小说" scheme="/tags/%E5%B0%8F%E8%AF%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人间失格</title>
-    <link href="/2020/04/01/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/"/>
-    <id>/2020/04/01/人间失格/</id>
-    <published>2020-04-01T13:00:00.000Z</published>
-    <updated>2020-04-12T13:13:16.893Z</updated>
-    
-    <summary type="html">
-    
-      人間失格
-    
-    </summary>
-    
-      <category term="书单" scheme="/categories/%E4%B9%A6%E5%8D%95/"/>
-    
-    
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
