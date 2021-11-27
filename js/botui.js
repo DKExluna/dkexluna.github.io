@@ -26,7 +26,7 @@ function bot_ui_ini() {
     }).then(function () {
         botui.message.add({
             delay: 1100,
-            content: "这里是 小林月玢DKExluna"
+            content: "这里是 小林にさこDKExluna"
         }).then(function () {
             botui.message.add({
                 delay: 1100,
@@ -65,11 +65,11 @@ function bot_ui_ini() {
         secondpart = function () {
             botui.message.add({
                 delay: 1500,
-                content: "现在在苏州中学读书"
+                content: "现在在复旦大学读书"
             }).then(function () {
                 botui.message.add({
                     delay: 1500,
-                    content: "呆呆的文科生"
+                    content: "呆呆的哲院人"
                 }).then(function () {
                     botui.message.add({
                         delay: 1200,
@@ -77,15 +77,15 @@ function bot_ui_ini() {
                     }).then(function () {
                         botui.message.add({
                             delay: 1500,
-                            content: "是个死宅，近月（划掉）月厨（不止Fate厨），喜欢动画和Galgame"
+                            content: "是个死宅（动画/漫画/GAL/音游宅）"
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
-                                content: "还是戒迷，对语言学也有一点点兴趣，只是没有学术交流的能力罢乐"
+                                content: "最近沉迷maimai中（この人、洗濯機をなぐっています。）"
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
-                                    content: "想学的技能是画画西语日语，想看很多书，但是天天想桃子只会躺着（捂脸）"
+                                    content: "恋爱中（てれる）老婆是居甜甜ww（AA/饼干）"
                                 }).then(function () {
                                     botui.action.button({
                                         delay: 1100,
@@ -111,7 +111,7 @@ function bot_ui_ini() {
                 botui.action.button({
                     delay: 1500,
                     action: [{
-                        text: "为什么是小林月玢呢？ 🤔",
+                        text: "为什么是小林にさこ呢？ 🤔",
                         value: "why-cat"
                     }]
                 }).then(function (a) {
@@ -122,11 +122,11 @@ function bot_ui_ini() {
         fourthpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "取自初中时候第一次写的中二小说…有特殊的谐音（小声）"
+                content: "想成为龙女仆里人见人爱的可靠小林！"
             }).then(function () {
                 botui.message.add({
                     delay: 1100,
-                    content: "至今还拿不准怎么读比较好呢= ="
+                    content: "にさこ是二傻子的读音ww（wow阿尔萨斯），万叶假名表记可以写成日紗子"
                 }).then(function () {
                     botui.action.button({
                         delay: 1500,
