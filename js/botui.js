@@ -85,7 +85,7 @@ function bot_ui_ini() {
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
-                                    content: "恋爱中（てれる）老婆是居甜甜ww（AA/饼干）"
+                                    content: "恋爱中（てれる）隆重介绍我的宝贝凪（芋圆）！"
                                 }).then(function () {
                                     botui.action.button({
                                         delay: 1100,
